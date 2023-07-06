@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown -R betty:hello $(find . -user guillaume -name hello)
+sudo chown -R guillaume:hello $(find . -user betty -name hello)
