@@ -1,1 +1,2 @@
-root:x:0:0:root:/root:/bin/bash
+#!/bin/bash
+grep "root" /etc/passwd
