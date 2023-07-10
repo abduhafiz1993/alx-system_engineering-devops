@@ -1,2 +1,2 @@
 #!/bin/bash
-cat list | sort | uniq -u 
+cat /tmp/0x02/list | sort | uniq -u 
